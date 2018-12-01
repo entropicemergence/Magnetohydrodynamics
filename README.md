@@ -1,5 +1,5 @@
 # Python-Mandelbrot
- program python 2.7 untuk menghasilkan mandelbrot set
+ Python 2.7 program to plot mandelbrot set
  
 ## Usage
 1. Install required modules with `pip install -r requirements.txt`.
