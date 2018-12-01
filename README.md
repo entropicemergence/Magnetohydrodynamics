@@ -4,7 +4,8 @@
 ## Usage
 1. Install required modules with `pip install -r requirements.txt`.
 2. Run the program with `python mandelbrot_generator.py`
-3. wait for the program to compute
+3. Wait for the program to compute
+4. Check the notebook file
 
 ## Commandline options
 
