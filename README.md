@@ -1,5 +1,6 @@
 # Python-Mandelbrot
-
+ program python 2.7 untuk menghasilkan mandelbrot set
+ 
 ## Usage
 1. Install required modules with `pip install -r requirements.txt`.
 2. Run the program with `python mandelbrot_generator.py`
