@@ -8,7 +8,7 @@
 4. Check the notebook file
 
 ## Mandelbrot Set feature rendered by this program
-<img src="https://github.com/Schildsladder/mandelbrot/blob/master/pictures/buzz.png" width="100%">
+<img src="https://github.com/Schildsladder/mandelbrot/blob/master/pictures/buzzsaw2.jpg" width="100%">
 
-
-[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://www.youtube.com/watch?v=StTqXEQ2l-Y "Everything Is AWESOME")
+Click the picture to watch the video
+[![Mandelbrot Video](https://github.com/Schildsladder/mandelbrot/blob/master/pictures/a23.png)](https://www.youtube.com/watch?v=eUALuIO6PzE"Mandelbrot Video")
