@@ -1,5 +1,6 @@
 # Magnetohydrodynamics Simulation
-Python program to simulate basic Magnetohydrodynamics, combining navier stokes and maxwell equation using finite element methoods. this project has been done as intership project at Indonesian National Institute of Aeronautics and Space Agency.
+Python program to simulate basic Magnetohydrodynamics, combining navier stokes and maxwell equation using finite element methoods. this project has been done as intership project at Indonesian National Institute of Aeronautics and Space Agency. The detail of this project can be found in the pdf file.
+
 Click the picture bellow to watch simulation result:
 [![Mandelbrot Video](https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/MHD.jpg)](https://www.youtube.com/watch?v=Nnf4BVqTEVM "Magnetohydrodynamics Simulation")
 
