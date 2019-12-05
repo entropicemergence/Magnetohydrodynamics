@@ -1,14 +1,14 @@
-# Python-Mandelbrot
- Python program to plot mandelbrot set
- 
-## Usage
-1. Install required modules with `pip install -r requirements.txt`.
-2. Run the program with `python mandelbrot_generator.py`
-3. Wait for the program to compute
-4. Check the notebook file
+# Magnetohydrodynamics Simulation
+Python program to simulate basic Magnetohydrodynamics, combining navier stokes and maxwell equation using finite element methoods. this project has been done as intership project at Indonesian National Institute of Aeronautics and Space Agency.
+Click the picture bellow to watch simulation result:
+[![Mandelbrot Video](https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/MHD.jpg)](https://www.youtube.com/watch?v=Nnf4BVqTEVM "Magnetohydrodynamics Simulation")
 
-## Mandelbrot Set feature rendered by this program
-<img src="https://github.com/Schildsladder/mandelbrot/blob/master/pictures/buzzsaw2.jpg" width="100%">
+# This is some of the simulation still frame
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%202%20.png" width="50>
+                                                                                                          
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2029%20.png" width="50>
+                                                                                                          
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2093%20.png" width="50>
+                                                                                                          
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%20217%20.png" width="50>
 
-Click the picture to watch video
-[![Mandelbrot Video](https://github.com/Schildsladder/mandelbrot/blob/master/pictures/a11.jpg)](https://www.youtube.com/watch?v=eUALuIO6PzE "Mandelbrot Video")
