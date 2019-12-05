@@ -11,4 +11,4 @@
 <img src="https://github.com/Schildsladder/mandelbrot/blob/master/pictures/buzzsaw2.jpg" width="100%">
 
 Click the picture to watch the video
-[![Mandelbrot Video](https://github.com/Schildsladder/mandelbrot/blob/master/pictures/a23.png)](https://www.youtube.com/watch?v=eUALuIO6PzE"Mandelbrot Video")
+[![Mandelbrot Video](https://github.com/Schildsladder/mandelbrot/blob/master/pictures/a23.png)](https://www.youtube.com/watch?v=eUALuIO6PzE "Mandelbrot Video")
