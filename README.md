@@ -5,11 +5,11 @@ Click the picture bellow to watch simulation result:
 [![Mandelbrot Video](https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/MHD.jpg)](https://www.youtube.com/watch?v=Nnf4BVqTEVM "Magnetohydrodynamics Simulation")
 
 # This is some of the simulation still frame
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%202%20.png" width="50%">
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%202%20.png" width="80%">
                                                                                                           
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2029%20.png" width="50%">
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2029%20.png" width="80%">
                                                                                                           
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2093%20.png" width="50%">
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%2093%20.png" width="80%">
                                                                                                           
-<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%20217%20.png" width="50%">
+<img src="https://github.com/Schildsladder/Magnetohydrodynamics/blob/master/pictures/B%20217%20.png" width="80%">
 
